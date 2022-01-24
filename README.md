@@ -16,6 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [](https://solegr.github.io/challenge-qr-code-component/)
+- [Live Site](https://solegr.github.io/challenge-qr-code-component/)
 
 
